@@ -1,0 +1,10 @@
+/dist
+/tmp
+/out-tsc
+/log
+log/
+dist/
+.DS_Store
+
+# dependencies
+/node_modules
